@@ -1,0 +1,30 @@
+what are window (analytic) functions?
+
+What is a CTE (Common Table Expression)? How is it different from subquery?
+
+What is a recursive CTE?
+
+How to perform pagination in SQL?
+
+How do you optimize SQL queries?
+
+What are the pros and cons of indexing?
+
+What is a correlated subquery?
+
+What are transactions and ACID properties?
+
+What is the difference between clustered and non-clustered index?
+
+Explain isolation levels in SQL (Read Uncommitted, Read Committed, Repeatable Read, Serializable)
+
+Write a query to get the department with the highest total salary.
+
+Write a query to get employees who joined in the last 30 days.
+
+Write a query to find employees who do not have a manager.
+
+Find customers who placed more than 2 orders in the same month.
+
+Write a query to pivot rows to columns.ww
+
